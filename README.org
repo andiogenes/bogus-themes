@@ -1,0 +1,3 @@
+* Bogus themes for GNU Emacs
+
+Modus themes for GNU Emacs but in shades of gray
