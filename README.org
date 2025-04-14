@@ -1,3 +1,7 @@
 * Bogus themes for GNU Emacs
 
 Modus themes for GNU Emacs but in shades of gray
+
+** TODO
+
+Check accessibility with `modus-themes-wcag-formula` and `modus-themes-contrast` and tune colors.
